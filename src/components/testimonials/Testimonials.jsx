@@ -53,8 +53,6 @@ const Testimonials = () => {
             return (
               <SwiperSlide key={index} className="testimonial"  
               modules={[ Pagination]}
-              spaceBetween={40}
-              slidesPerView={1}
               pagination={{clickable:true}}
               >
 
