@@ -31,21 +31,21 @@ const Contact = () => {
               <MdOutlineEmail className='contact_option-icon'/>
             <h4>Email</h4>
             <h5>rahulbawa514@gmail.com</h5>
-            <a href="mailto:rahulbawa514@gmail.com">Send a message</a>
+            <a href="mailto:rahulbawa514@gmail.com" target= '_blank' rel='noreferrer'>Send a message</a>
           </article>
 
           <article className="contact_option">
               <TiSocialInstagram className='contact_option-icon'/>
             <h4>Instagram</h4>
             <h5>thedevilinme2021</h5>
-            <a href="https://intsagram.com/thedevilinme2021">Send a message</a>
+            <a href="https://instagram.com/thedevilinme2021" rel="noreferrer" target="_blank">Send a message</a>
           </article>
 
           <article className="contact_option">
               <BsLinkedin className='contact_option-icon'/>
             <h4>LinkedIn</h4>
             <h5>Rahul Kumar</h5>
-            <a href="www.linkedin.com/in/rahul-kumar-82326320a">Connect with me</a>
+            <a href="https://www.linkedin.com/in/rahul-kumar-82326320a" rel="noreferrer" target="_blank">Connect with me</a>
           </article>
         </div>
         {/* END OF CONTACT */}
