@@ -2,13 +2,13 @@ import React from 'react'
 import './portfolio.css'
 import mp3 from '../../assets/mp3.jpg'
 import book from '../../assets/book.jpg'
-import newsapp from '../../assets/newsapp.jpg'
+// import newsapp from '../../assets/newsapp.jpg'
 import speech from '../../assets/speech.jpg'
 import building from '../../assets/building.jpg'
 import gclone from '../../assets/gclone.jpg'
 import textUtil from '../../assets/textUtil.jpg'
 import chat from '../../assets/chat.jpg'
-import trex from '../../assets/trex.jpg'
+// import trex from '../../assets/trex.jpg'
 import scooter from '../../assets/scooter.jpg'
 
 const Portfolio = () => {
@@ -25,7 +25,7 @@ const Portfolio = () => {
           <h3>MP3 Player</h3>
           <div className="portfolio_item-cta">
           <a href="https://github.com/RAHULBAWA777/mp3Player" rel='noreferrer' className='btn' target='_blank'>Source Code</a>
-          <a href="https://rahulbawa777.github.io/mp3player/" rel='noreferrer' className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://rahulbawa777.github.io/mp3Player/" rel='noreferrer' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
 
@@ -36,11 +36,11 @@ const Portfolio = () => {
           <h3>Flip Book</h3>
           <div className="portfolio_item-cta">
           <a href="https://github.com/RAHULBAWA777/FlipBook" rel='noreferrer' className='btn' target='_blank'>Source Code</a>
-          <a href="https://rahulbawa777.github.io/flipbook/" rel='noreferrer' className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://rahulbawa777.github.io/FlipBook/" rel='noreferrer' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
-
-        <article className="portfolio_item">
+       
+        {/* <article className="portfolio_item">
           <div className="portfolio_item-image">
             <img src={newsapp} alt="" />
           </div>
@@ -49,7 +49,7 @@ const Portfolio = () => {
           <a href="https://github.com/RAHULBAWA777/Digi-News" rel='noreferrer' className='btn' target='_blank'>Source Code</a>
           <a href="https://rahulbawa777.github.io/Digi-News/" rel='noreferrer' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
-        </article>
+        </article> */}
 
         <article className="portfolio_item">
           <div className="portfolio_item-image">
@@ -106,7 +106,7 @@ const Portfolio = () => {
           </div>
         </article>
 
-        <article className="portfolio_item">
+        {/* <article className="portfolio_item">
           <div className="portfolio_item-image">
             <img src={trex} alt="" />
           </div>
@@ -115,7 +115,7 @@ const Portfolio = () => {
           <a href="https://github.com/RAHULBAWA777/T-Rex-Runner-game-" rel='noreferrer' className='btn' target='_blank'>Source Code</a>
           <a href="https://rahulbawa777.github.io/T-Rex-Runner-game-/" rel='noreferrer' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
-        </article>
+        </article> */}
 
         <article className="portfolio_item">
           <div className="portfolio_item-image">

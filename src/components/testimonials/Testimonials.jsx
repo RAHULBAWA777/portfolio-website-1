@@ -16,8 +16,8 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: rFace,
-    name: "rahuuuuuuuuuuuuuuuu",
-    review: "bisdhdui ihscuinusdn csnnscindsi ncdnsnicn nocnubucbd hcuiwhc gyuegu a yugfuyg ggauoilncuihhea yobif ud u isuafiud iuuifhsu laud uebfbeu udfisla uhaildf ufhieu f"
+    name: "Vuppala Nagehwar Gupta",
+    review: "Rahul provides best in class services for my startup BackBencher's Realty Pvt Lmt"
   },
   {
     avatar: rFace,

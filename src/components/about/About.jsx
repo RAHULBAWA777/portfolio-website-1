@@ -40,7 +40,7 @@ const About = () => {
            </article>
           </div>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore doloremque itaque, totam mollitia, amet cupiditate temporibus consequatur ipsam sequi facilis vel aperiam quo!
+            A highly enthusiastic Software Developer with a keen knowledge of his field.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
