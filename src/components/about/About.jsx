@@ -24,26 +24,29 @@ const About = () => {
            <article className='about_card'>
              <FaAward className='about_icon'/>
             <h5>Experience</h5>
-            <small>1.5+ Years working</small>
+            <large>1.5+ Years </large>
            </article>
 
            <article className='about_card'>
              <HiOutlineUsers className='about_icon'/>
             <h5>Clients</h5>
-            <small>2+</small>
+            <large>5+</large>
            </article>
 
            <article className='about_card'>
              <AiOutlineFundProjectionScreen className='about_icon'/>
             <h5>Projects</h5>
-            <small>8+ Completed</small>
+            <large>90+ Completed</large>
            </article>
           </div>
-          <p>
+          <br/>
+          <p style={{fontSize:'1.5rem'}}>
             A highly enthusiastic Software Developer with a keen knowledge of his field.
           </p>
+          <br/>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
+       
       </div>
     </section>
   )

@@ -38,6 +38,9 @@ gap: 1.5rem;
     text-align: center;
     transition:var(--transition);
 }
+.about_card{
+    
+}
 
 .about_card:hover{
     background: transparent;

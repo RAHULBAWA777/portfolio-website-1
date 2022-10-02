@@ -1,0 +1,22 @@
+#certifications{
+    /* background-color: antiquewhite; */
+    width: 40%;
+    margin: 0 auto;
+margin-top: 3rem;
+    /* padding-bottom: 2rem; */
+}
+#certifications>.swiper {
+    width: 700px;
+    height: 600px;
+  }
+  
+  #certifications>.swiper-slide {
+    background-position: center;
+    background-size: cover;
+  }
+  
+  #certifications>.swiper-slide img {
+    display: block;
+    width: 100%;
+  }
+  

@@ -94,6 +94,10 @@ const Services = () => {
             <BiCheck className='service_list-icon'/>
             <p>Eclipse</p>
           </li>
+          <li>
+            <BiCheck className='service_list-icon'/>
+            <p>Postman</p>
+          </li>
         </ul>
         </article>
       </div>
